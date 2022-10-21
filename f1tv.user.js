@@ -7,7 +7,7 @@
 // @match        https://f1tv.formula1.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=busites.com
 // @grant        none
-// @downloadURL  
+// @downloadURL  https://github.com/joegibson/userscripts/raw/main/f1tv.user.js
 // ==/UserScript==
 
 (function() {
