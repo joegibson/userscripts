@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Local Dev Deployment
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Add styling to compress menu bar and margin or padding above video.
 // @author       Joe
 // @match        https://f1tv.formula1.com/*
@@ -13,6 +13,7 @@
     'use strict';
     const urlParams = new URLSearchParams(window.location.search);
     const play = urlParams.get('action');
+    console.log("play :",play);
     if(play === "play"){
         var style = document.createElement('style');
         style.setAttribute('id', 'popup-styling');
