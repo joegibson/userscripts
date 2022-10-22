@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Local Dev Deployment
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Add styling to compress menu bar and margin or padding above video.
 // @author       Joe
 // @match        https://f1tv.formula1.com/*
