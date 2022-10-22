@@ -22,14 +22,14 @@
               height: 30px;
           }
           .global-header {
-              height: 30px;
+              height: 40px;
           }
           .global-header-f1tvicon{
               padding: 5px 17px;
               height: 30px;
           }
           .sticky-header-wrapper {
-              margin-bottom: 40px !important;
+              margin-bottom: 45px !important;
           }
           .global-header-actions {
               padding-top: 0px;
