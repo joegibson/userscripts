@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         YT remove playlist function
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Add styling to compress menu bar and margin or padding above video.
 // @author       Joe
 // @match        https://www.youtube.com/playlist?list=WL
 // @grant        none
-// @downloadURL  https://github.com/joegibson/userscripts/blob/main/yt.user.js
+// @downloadURL  https://github.com/joegibson/userscripts/raw/main/yt.user.js
 // ==/UserScript==
 
 (function() {
