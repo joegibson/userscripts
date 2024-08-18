@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Removing playlist function so a video doesn't auto play the next one
 // @author       Joe
-// @match        https://www.youtube.com/playlist?list=WL
+// @match        https://www.youtube.com/playlist?*
 // @grant        none
 // @downloadURL  https://github.com/joegibson/userscripts/raw/main/yt.user.js
 // ==/UserScript==
