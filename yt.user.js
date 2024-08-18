@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Local Dev Deployment
+// @name         YT remove playlist function
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Add styling to compress menu bar and margin or padding above video.
