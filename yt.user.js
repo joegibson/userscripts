@@ -6,7 +6,7 @@
 // @author       Joe
 // @match        https://www.youtube.com/playlist?list=WL
 // @grant        none
-// @downloadURL  https://github.com/joegibson/userscripts/raw/main/yt.user.js
+// @downloadURL  https://github.com/joegibson/userscripts/blob/main/yt.user.js
 // ==/UserScript==
 
 (function() {
