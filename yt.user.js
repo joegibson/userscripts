@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         YT remove playlist function
+// @name         YT remove playlist functionality
 // @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  Add styling to compress menu bar and margin or padding above video.
+// @version      0.1
+// @description  Removing playlist function so a video doesn't auto play the next one
 // @author       Joe
 // @match        https://www.youtube.com/playlist?list=WL
 // @grant        none
