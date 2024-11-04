@@ -7,6 +7,7 @@
 // @match        https://www.youtube.com/*
 // @grant        none
 // @downloadURL  https://github.com/joegibson/userscripts/raw/main/yt.user.js
+// @updateURL    https://github.com/joegibson/userscripts/raw/main/yt.user.js
 // ==/UserScript==
 
 if(ytPageType === 'playlist'){
