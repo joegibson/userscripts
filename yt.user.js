@@ -21,6 +21,7 @@ setTimeout( () => {
 			let currentHref = l.getAttribute( "href" );
 			let newHref = currentHref.replace( 'list=WL&index=', 'nothing=' )
 			l.setAttribute( "href", newHref );
+			l.setAttribute("target", "_blank")
 		})
 	}
 }, "2000" );
