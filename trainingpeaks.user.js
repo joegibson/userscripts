@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TrainingPeaks supress popup
 // @namespace    http://tampermonkey.net/
-// @version      0.8
+// @version      0.1
 // @description  Add styling to supress sub popup
 // @author       Joe
 // @match        https://app.trainingpeaks.com/*
