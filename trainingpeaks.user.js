@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Local Dev Deployment
+// @name         TrainingPeaks supress popup
 // @namespace    http://tampermonkey.net/
 // @version      0.8
 // @description  Add styling to supress sub popup
